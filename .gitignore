@@ -30,4 +30,4 @@ com_crashlytics_export_strings.xml
 
 #sass
 *.sass-cache*
-.pem
+*.pem
